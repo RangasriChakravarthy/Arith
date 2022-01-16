@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rangasrichakravarthy/Desktop/Arith/ast.h
+lexer.h
+/Users/rangasrichakravarthy/Desktop/Arith/lexer.h
+
+/Users/rangasrichakravarthy/Desktop/Arith/lexer.h
+
+/Users/rangasrichakravarthy/Desktop/Arith/main.cpp
+iostream
+-
+parser.h
+/Users/rangasrichakravarthy/Desktop/Arith/parser.h
+ast.h
+/Users/rangasrichakravarthy/Desktop/Arith/ast.h
+lexer.h
+/Users/rangasrichakravarthy/Desktop/Arith/lexer.h
+
+/Users/rangasrichakravarthy/Desktop/Arith/parser.h
+ast.h
+/Users/rangasrichakravarthy/Desktop/Arith/ast.h
+lexer.h
+/Users/rangasrichakravarthy/Desktop/Arith/lexer.h
+
