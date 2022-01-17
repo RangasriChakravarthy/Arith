@@ -33,22 +33,6 @@ Extra test cases:
 
 10 extra test cases have been added to support the extra features and are under 'self.bats'
 
-Git log:
-
-rangasrichakravarthy@Rangasris-MacBook-Pro Arith_hw1 % git log
-commit a24618f740edab06bb979a0d695845bcb72e029a (HEAD -> mod_readme, origin/main, origin/HEAD, main)
-Author: Rangasri Chakravarthy <rachakra@ucsc.edu>
-Date:   Sat Jan 15 19:51:21 2022 -0800
-
-    hw1: Arith
-
-commit 22550b56bfa05537e051b4703c4e21e43bde6ff9
-Author: RangasriChakravarthy <92271556+RangasriChakravarthy@users.noreply.github.com>
-Date:   Sat Jan 15 19:48:37 2022 -0800
-
-    Initial commit
-
-
 Note: 
 
 Since we were not sure if we can maintain a public git repo (since the course is ongoing), 
