@@ -2,7 +2,6 @@
 
 -------------------------------------------------------------------
 This was done as part of a homework for CSE210A at UCSC
-HW1- ARITH: lexer.h, parser.h, ast.h, main.cpp, Makefile
 
 Authors: Rangasri Chakravarthy & Priyanka Dutta
 --------------------------------------------------------------------
