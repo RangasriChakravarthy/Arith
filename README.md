@@ -1,14 +1,10 @@
 # Interpreter for ARITH language
 
 -------------------------------------------------------------------
+This was done as part of a homework for CSE210A at UCSC
 HW1- ARITH: lexer.h, parser.h, ast.h, main.cpp, Makefile
 
 Authors: Rangasri Chakravarthy & Priyanka Dutta
-
-On this homework, we worked together for 10 hours,
-
-Rangasri worked independently for 2 hours,
-Priyanka worked independently for 2 hours.
 --------------------------------------------------------------------
 This project was implemented in c++.
 
